@@ -1,4 +1,4 @@
-# 1st Commit
+# 3rd Commit
 
 # C++ Boilerplate
 [![Build Status](https://travis-ci.org/dpiet/cpp-boilerplate.svg?branch=master)](https://travis-ci.org/dpiet/cpp-boilerplate)
